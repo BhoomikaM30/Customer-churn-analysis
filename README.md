@@ -27,9 +27,11 @@ Python (pandas, SciPy), MySQL, Power BI
 
 ## Statistical tests
 
-Chi-square | Is contract type linked to churn? | Yes (p < 0.05) |
-t-test | Do churned customers pay more per month? | Yes (p < 0.05) |
-Correlation | Which factor moves most with churn? | Tenure, at -0.35. Shorter tenure means higher churn. |
+| Test | Question | Result |
+|---|---|---|
+| Chi-square | Is contract type linked to churn? | Yes (p < 0.05) |
+| t-test | Do churned customers pay more per month? | Yes (p < 0.05) |
+| Correlation | Which factor moves most with churn? | Tenure, at -0.35. Shorter tenure means higher churn. |
 
 ## Key findings
 
